@@ -2,7 +2,7 @@ name: Teste on PR
 
 on:
   pull_request:
-  branches: [master]
+    branches: [master]
 
 jobs:
   test:
